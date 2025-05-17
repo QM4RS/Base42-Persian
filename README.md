@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="logo.png" alt="Base42-Persian logo" width="300"/>
+  <img src="Base42-Persian.png" alt="Base42-Persian logo" width="300"/>
 </p>
 
 
