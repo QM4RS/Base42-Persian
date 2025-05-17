@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="logo.png" alt="Base42-Persian logo" width="300"/>
+</p>
+
+
 ## 🚀 Features
 
 ✅ Persian letters + Persian digits as alphabet  
